@@ -1,0 +1,13 @@
+name = "Nesquate's Modpack"
+author = "Nesquate"
+version = "0.7.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6dcca51ab84b0784ec6568d6b63d16dde7096c136681553e4540e5fe58f4af0e"
+
+[versions]
+fabric = "0.14.22"
+minecraft = "1.20.1"
