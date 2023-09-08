@@ -10,8 +10,7 @@
       
       ],
       "bottom_right": [
-        {"text":"Nesquate's Modpack","clickEvent":{"action":"open_url","value":"https://discord.gg/mSdMqEAAFW"}},
-        {"text":"In-Discord-Server Beta 1"},
+        {"text":"Nesquate's Modpack Beta 2","clickEvent":{"action":"open_url","value":"https://discord.gg/mSdMqEAAFW"}},
         {"text":"For test only"}
       ],
       "mod_blacklist": [
@@ -26,7 +25,7 @@
       "bottom_left": [
       ],
       "bottom_right": [
-        {"text":"Nesquate's Modpack 0.7.1"}
+        {"text":"Nesquate's Modpack 0.8.0"}
       ],
       "mod_blacklist": [
   
