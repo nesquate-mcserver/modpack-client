@@ -5,16 +5,16 @@ file = "README.md"
 hash = "dee50a23b61a09e2a83b541fcb5305dc3dd70804ad890076b65d065403d29d12"
 
 [[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "a7033cc643800815d20907ab60d95cc4bcbc0d9c7e66d7d1b8580a8924cd8479"
+
+[[files]]
 file = "config/yosbr/config/debugify.json"
 hash = "eef3cca5127037fc337391ef49889a03e7102d6c2d1af866dcf007353b52324b"
 
 [[files]]
 file = "config/yosbr/config/dynamicfps.toml"
 hash = "912c60f3e8bea149179a7f4470b37cfb07a31ff74054f0861baefad055656a6e"
-
-[[files]]
-file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "f25b09ed906adf3b1efbdfd719d858ad66c37db95d19919fd931476903eed696"
 
 [[files]]
 file = "config/yosbr/config/languagereload.json"
@@ -122,12 +122,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "1f49e24c04e3bc0132a3542cd4fc9c0d012515f19f124fb0b48eaff9bb99861c"
+hash = "ad214677d7d7b71d0d962d4b3f668d34ba2faa19b30ad007afd89a205256505c"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "b97c2e6418ccc906fdba8bf0318b97b8cd9cf66454064c5a37a662add9ab8d15"
+hash = "07b5408b9bb345142ba433e13c5022fe05b6f244cc6b5d5c54779398b5ea191a"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "b955450fc7798bd9490f24977a828a06aeee726198aacec1eef16703ab88fbc5"
+hash = "0115f86693696e977523c0137f7951a28577290d5e0e176b257e437e14f3fd5f"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "8bb36bbf7dbac0d531f6c308329109d29d95a83a2c0d972178655efd8afddf4b"
+hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
 metafile = true
 
 [[files]]
@@ -218,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/libipn.pw.toml"
 hash = "8547edbdc700238255794cdbb3b142d2bdb9f17a65b36ac1ce3c92e1aa942c3d"
+metafile = true
+
+[[files]]
+file = "mods/lilac.pw.toml"
+hash = "713b1d8daa14ec46c8d6ad966b6339ee8c5eff0f034ad14ab9cfe315cc6fcdb0"
 metafile = true
 
 [[files]]
@@ -282,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "6b9a5755df72a262ba648f459c72d130211f859811b80b69aed1d47ea1a7aad6"
+hash = "0806fafc99d2bc0d3caf9bbf726367ee3e1a56788a6254b58b45567980dce7f1"
 metafile = true
 
 [[files]]
@@ -292,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "3f388ddc7117c49e0a3da7ff4531853689da224cdbb858178d09d778732734e1"
+hash = "5ca981c5510de3d8c79d5faaa58697af8db46269c9fd32d32f9b23d0ef452ac6"
 metafile = true
 
 [[files]]
@@ -347,12 +352,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "b2dd36a482e7526f70823d742886030089c966ab8a94a1e63c2e92c48bb5863b"
+hash = "33ac4f6bb510cf129a3be9e78f12b368bcbf0c813d78aad7c510d748e52c7db4"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "1cfb52ef509e73cd2df7d19af4fff3a5b2d46ebe5e2674257ce78e3f400bb66e"
+hash = "3da4278dce5b43b0e0288cea2f86b342aa231b4188d23f3462481afd6d50b197"
 metafile = true
 
 [[files]]
@@ -376,5 +381,5 @@ hash = "0e8aa06fe3b16426d078751f817554d47a898da3626d6cd873586b9345e52c02"
 
 [[files]]
 file = "resourcepacks/modern-font-pack.pw.toml"
-hash = "947fd21bcf11986afcc25937a691e6cb522764d8fec2049a46192f9b277bbe5f"
+hash = "43231cb9afd40a871ce0cc77b98c27a3f8eff3e6349f90db4c35fb5ff45cd8a6"
 metafile = true
