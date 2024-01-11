@@ -1,13 +1,13 @@
-name = "Nesquate's Modpack"
+name = "Nesquate Server's Client Modpack"
 author = "Nesquate"
-version = "1.0.0"
+version = "1.1.0-fo580b3-m1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1cefa9fa9248259e34ad5e97258f1ae0c1126756f07d2a75ee798f4a38e44614"
+hash = "62ccb030aa08398c90d8766687babe2643da7cb6e8684723c5cfeaac0b7213fb"
 
 [versions]
-fabric = "0.14.22"
-minecraft = "1.20.1"
+fabric = "0.15.3"
+minecraft = "1.20.4"

@@ -1,7 +1,0 @@
-name = "CacoaInput"
-filename = "CocoaInput-1.20-fabric-4.0.9-PREVIEW.jar"
-
-[download]
-url = "https://github.com/nakanotti/CocoaInput/releases/download/1.20.1-PREVIEW1/CocoaInput-1.20-fabric-4.0.9-PREVIEW.jar"
-hash-format = "sha256"
-hash = "ceac6b2c9558730a8e2f9cb14459d6fa6a9f04177a6b4e80a3a1a076eaba8818"
