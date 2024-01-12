@@ -121,6 +121,10 @@ file = "config/yosbr/options.txt"
 hash = "0b5cd70ec834c5373ec7a92e747eb7669d5be9cab7c341d2e556c1217050173f"
 
 [[files]]
+file = "credits.txt"
+hash = "761f904c3dd9e79baea1508161ff24f3a2f867722ed1d836d3a354a4188ce817"
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "65df17c363eed6e37080d134f548a22aa0b14a9fecf94d5045d5b451bdeb88f4"
 metafile = true
