@@ -10,7 +10,7 @@ hash = "354f79941d6e5eaa1d2c0088771d55c4af251660bd9bd048ffe4cc9705f6e8aa"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "48600e3929fe4f9da482364d6d44bce82e0d988b9e5ee7126d666d5dd1cdb80f"
+hash = "1860d47dfb0eda39bfafe20b47b6dd8a88d984917fc35091b529f65a7029dcc0"
 
 [[files]]
 file = "config/modmenu.json"
@@ -118,7 +118,7 @@ hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "0b5cd70ec834c5373ec7a92e747eb7669d5be9cab7c341d2e556c1217050173f"
+hash = "5076f7f83df69b6c0d1ba21ce53224f64eed9ad77073605863b6f5b8937ce2d6"
 
 [[files]]
 file = "credits.txt"
@@ -147,6 +147,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "b705c29727a077b428b8ccca60b138ec29416d3bc8c66759cdcea338da830777"
+metafile = true
+
+[[files]]
+file = "mods/cocoainput.pw.toml"
+hash = "4687528a6cd2f8eb60e3f83b929607442f7de95cf7346161637ef529f9e060a9"
 metafile = true
 
 [[files]]
@@ -196,12 +201,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "827a9a5e6568235833e91a87c4777f149fad881b179565f32f6fbd1288183b54"
+hash = "457a57aeaa3ff8f6a76f7299937e0b608d6dcfdd5d5c0493e5cd97a67bc9f117"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "5fe18fac8fa96339268e15f14721c308e076327d68b43bd1d458a11563e589cb"
+hash = "682dbda396392c309747e953429f9db1e4594f187ac85a7700a8ff02f7c8b523"
 metafile = true
 
 [[files]]
@@ -235,6 +240,11 @@ hash = "e058243c0836aa4d3183015022f03919754586001d0b75cfe923b8284df4218c"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "f48a0a4a071ca788ea22dbb53fd95dc6db8011b5dc5d5b84ad70f80148260535"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "915313289a88246b41181c8823a5b3385caf3843f045d3598602de13f595b41a"
 metafile = true
@@ -245,13 +255,43 @@ hash = "a8c3a598ab5619672bd3516198953e6e19efcafe00533a67e5119d612bd62ac9"
 metafile = true
 
 [[files]]
+file = "mods/item-scroller.pw.toml"
+hash = "55a6e99e45313cb3d8bea34f1d7699bb2f4cbc71ad94ef193af0e98254bc67b0"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "a4a9b9adba2d1ba9f3be438a1b304d293b02034c9217496ed7deafb91bcbf4ee"
+metafile = true
+
+[[files]]
 file = "mods/languagereload.pw.toml"
 hash = "a64acfa3725ac6037030178f28c263fd248e55e2ef4da1980e0a760bfaecb477"
 metafile = true
 
 [[files]]
+file = "mods/libipn.pw.toml"
+hash = "6754519ef4ab0deb60a6dfbcdd9b494a62d3c1c6342e16a19639f4e1e8098454"
+metafile = true
+
+[[files]]
+file = "mods/litematica.pw.toml"
+hash = "82823f8d324029f0893ab72639efb9fc7a43ca45653e8ea8f656692d0c7aab39"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "0006f3c5bf832bfb1473d97a1b295df655ce1d2659f918203a4ef96950a3699d"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "404aed5b1f0b409771dcd76f8f8f532ad5623d246c69c25e83c0148a79033e32"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "7bf6c2c9ab897cf5187e4431ee15f9a74e7267e4eba2d38f37ccc14830cc03ab"
 metafile = true
 
 [[files]]
@@ -305,6 +345,11 @@ hash = "c8e63d0b1770e8e36bee5ae3172693113b56ead0095ec101ed8562c5cf7066ad"
 metafile = true
 
 [[files]]
+file = "mods/raknetify.pw.toml"
+hash = "02421594640b86ccd43e888d0413ade610b4a87bb5a2325cccdfda0a502c5b61"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "71a2f6da2b35a4906ea3dafcb60ee39926ed2ebe6e6018cf024892e654dbfb36"
 metafile = true
@@ -315,6 +360,11 @@ hash = "d1119f47d9250059595a246067e0d751b5a6944b6c9fa4cfd74bc49e10df9392"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "887462ace66aec67827987e39c01e8f6c5f2c07e265b90ac9f611133c5f59a63"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "d4dc3f4e3773eda6c6f2d67115adebc602a8a082c15a7399ad54ded71ff335de"
 metafile = true
@@ -322,6 +372,21 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "637c14fb70aadb1b1717e15d0de482e2728b9e48630a043685ae46984a735cb0"
+metafile = true
+
+[[files]]
+file = "mods/tweakermore.pw.toml"
+hash = "39ae252f7d5cb93fd0fb9cc20fd313f2e6319376895d4751f558607f2e9b3d44"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "51adaf9f750f523686662d07961285cb3ae86b907bd4d71e9a498955a67c73e4"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "e977f039cfc0cfb3905ac0c1940e399e7ef464ac4cd419e1a4b3431c65a4aea3"
 metafile = true
 
 [[files]]
@@ -362,3 +427,7 @@ metafile = true
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
 hash = "e998521eefb84ac72743826ad9d3e82dadc7c75e3b44a7ee3443b40d286bc2b5"
 metafile = true
+
+[[files]]
+file = "resourcepacks/VanillaTweaks.zip"
+hash = "516d14125f72db859614537502442f32a89227da9522e4526a008c80734b5560"

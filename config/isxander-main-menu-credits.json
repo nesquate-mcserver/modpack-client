@@ -1,1 +1,26 @@
-{"main_menu":{"bottom_right":[{"text":"Nesquate Server's Client Modpack 1.1.0-fo580b3-m1","clickEvent":{"action":"open_url","value":"https://discord.gg/mSdMqEAAFW"}}]},"pause_menu":{"bottom_right":[{"translate":"isxander-main-menu-credits.fabrishot","fallback":"Take 4K screenshots with F9","color":"dark_gray"}]}}
+{
+    "main_menu": {
+        "bottom_right": [
+            {
+                "text":"1.1.0-fo580b3-m2"
+            },
+            {
+                "text": "Nesquate Server's Client Modpack",
+                "clickEvent": {
+                    "action": "open_url",
+                    "value": "https://discord.gg/mSdMqEAAFW"
+                }
+            }
+        ]
+    },
+
+    "pause_menu": {
+        "bottom_right": [
+            {
+                "translate": "isxander-main-menu-credits.fabrishot",
+                "fallback": "Take 4K screenshots with F9",
+                "color": "dark_gray"
+            }
+        ]
+    }
+}
