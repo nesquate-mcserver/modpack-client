@@ -1,4 +1,4 @@
 Credits:
 Fabulously Optimized: https://download.fo/
 Vanilla Tweaks: https://vanillatweaks.net/
-
+fabric-mod-chinese-traslation-resouce-pack: https://github.com/whats2000/fabric-mod-chinese-traslation-resouce-pack

@@ -1,0 +1,100 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=604382%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376382%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 157
+  action = deep_customization_element:title_screen_branding
+  actionid = ca55676a-28c4-4361-bdc4-a6614672f74d1705046183635
+  y = 244
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 334
+  width = 14
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 0c488795-4ef1-4461-9f16-db91f4a467471705046183635
+  y = 161
+  height = 14
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 64
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = edb4252d-32ac-4360-9387-b5266620ab6d1705046183635
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 7ab1afbe-0f50-4772-abb5-6657f1eb8ca51705046183635
+  y = -2
+  height = 30
+}
+
+customization {
+  orientation = element
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  orientation_element = vanillabtn:button_compatibility_id:modmenu_titlescreen_mods_button
+  buttonaction = opengui;nesquate_report_bug%btnaction_splitter_fm%
+  x = 101
+  width = 47
+  action = addbutton
+  actionid = 8c496830-25a4-401f-a252-76df0c7655111705046607765
+  y = 0
+  label = 回報 Bug
+  height = 20
+}
+
+customization {
+  orientation = top-right
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = disable_layout;m3-layout%btnaction_splitter_fm%enable_layout;m3-new-layout%btnaction_splitter_fm%enable_layout;nesquate-game-options%btnaction_splitter_fm%
+  x = -44
+  width = 44
+  action = addbutton
+  actionid = 537331b4-fa5e-43ae-8df1-8a8424e5e01c1705051595585
+  y = 7
+  label = 啟用新UI
+  height = 20
+}
+

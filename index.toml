@@ -9,8 +9,72 @@ file = "config/fabric_loader_dependencies.json"
 hash = "354f79941d6e5eaa1d2c0088771d55c4af251660bd9bd048ffe4cc9705f6e8aa"
 
 [[files]]
+file = "config/fancymenu/config.txt"
+hash = "0a505650453fdcf8d6d349a06d5c0e2a3204a9422fbaec2c3085e93ada9692cc"
+
+[[files]]
+file = "config/fancymenu/customguis/nesquate_report_bug.txt"
+hash = "9cf1615a15172f07ad0e4b2ba7ae1e7e29ab4bebad174c814008e3894b473289"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "e77defcfec3e790ac274f97ae8335cb3eda698a60de31147aa73b47bf9b34f77"
+
+[[files]]
+file = "config/fancymenu/customization/.disabled/m3-layout.txt"
+hash = "f14bf6a684bc00741b1bd5ab7efa849b3cab6b0b05fa19fa8e7cc6bde624b916"
+
+[[files]]
+file = "config/fancymenu/customization/.disabled/m3-new-layout.txt"
+hash = "ced799b9923362b976b44b05984685161720a67ac34f7683517761783a8dc661"
+
+[[files]]
+file = "config/fancymenu/customization/m3-game-options.txt"
+hash = "678a3a109254040acbe032c4ce8fae66118ba8978a915644243b8be0fc7666ef"
+
+[[files]]
+file = "config/fancymenu/customization/report_bug_gui.txt"
+hash = "c48277b10b10ecc9e1a76e735e5fd8e4c8e2c89afe33360f8553a87bc8263801"
+
+[[files]]
+file = "config/fancymenu/locals/de_de.local"
+hash = "13485f1d678322a328e798c34f1ff9f7f9c690464d1050e2e7c1ea02b0f49b61"
+
+[[files]]
+file = "config/fancymenu/locals/en_us.local"
+hash = "cef0b6b4ed124cb2e5f0f19de2bd86cc59e6f7426a58d6d74bbd3554727553d4"
+
+[[files]]
+file = "config/fancymenu/locals/pl_pl.local"
+hash = "66d4e9b270d4d92bffd85b13255def475d3ff6c865965deaa700be2ed1b08bc0"
+
+[[files]]
+file = "config/fancymenu/locals/pt_br.local"
+hash = "0b19fc1d8bd8c86435eb39886116aceb3b4554fa749561fc87be2df0157a134c"
+
+[[files]]
+file = "config/fancymenu/locals/ru_ru.local"
+hash = "2120cd2e1de7d8ec9ee8d18f24db70645e92042ba55ffbbc68403ecdc8a50fce"
+
+[[files]]
+file = "config/fancymenu/locals/uk_ua.local"
+hash = "c9a592ff8445f3d8d6a87a59df27e72a67b71afcf0fc03dad27a5ded2f94a780"
+
+[[files]]
+file = "config/fancymenu/locals/zh_cn.local"
+hash = "50cf30919fd2c7b11f6ce246425d657e3b93dfb919a0b6fe4730dc5d9fee0d2a"
+
+[[files]]
+file = "config/fancymenu/menu_identifiers.db"
+hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "1860d47dfb0eda39bfafe20b47b6dd8a88d984917fc35091b529f65a7029dcc0"
+hash = "9ffa8051a8e8e3e9429117ddc1fe374b02fcaeac7cd5414fc48c0286291c3544"
 
 [[files]]
 file = "config/modmenu.json"
@@ -89,12 +153,20 @@ file = "config/yosbr/config/lambdynlights.toml"
 hash = "326ec0c840e65aedf5c6048ea6016d551be38cf23f692949e105a4a388ad8be7"
 
 [[files]]
+file = "config/yosbr/config/languagereload.json"
+hash = "d8977e90891ba131a5677cd29b108b6eba45740f2db71c45a71eefc0d6122493"
+
+[[files]]
 file = "config/yosbr/config/midnightcontrols.json"
 hash = "b792f2977c2889e388d0a0e83e316ed4f27050729d86c8623e8472accb8a2a46"
 
 [[files]]
 file = "config/yosbr/config/midnightlib.json"
 hash = "57b848fb6d7c03b6124297de49b1e4cb169e74db042c74aecf79f035ae2f3980"
+
+[[files]]
+file = "config/yosbr/config/minihud.json"
+hash = "2ebde44ef1e1534f899ff7c3f738de440db8621eb6f2836c434797cd16d54efb"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
@@ -118,11 +190,15 @@ hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "5076f7f83df69b6c0d1ba21ce53224f64eed9ad77073605863b6f5b8937ce2d6"
+hash = "e7b16f45ef6b666f8aafa0e86c11b829be8126f70e2b9432134aea236f7f2cd3"
+
+[[files]]
+file = "config/yosbr/servers.dat"
+hash = "b91b9a1958fc1d6e0ea64f5bb9844571e9be9e73a3908ebe8357b682102aade0"
 
 [[files]]
 file = "credits.txt"
-hash = "761f904c3dd9e79baea1508161ff24f3a2f867722ed1d836d3a354a4188ce817"
+hash = "2c95eb26dfbe6545befa03f8e6c409ad890074a7ec9e20ee128d38f88c58559a"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -142,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/capes.pw.toml"
 hash = "08273307f0b1df02aabffcea657747e6308ca00d301c6c0f4cce42818a8f53f5"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "445ab1ae4465ec4aee4a853aa4e5bd82d0d9b729904d7df02ca96c94e5843bb1"
 metafile = true
 
 [[files]]
@@ -201,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "457a57aeaa3ff8f6a76f7299937e0b608d6dcfdd5d5c0493e5cd97a67bc9f117"
+hash = "dce61dc785a16446575cac0c042ded380226ed257eac97d7b53a2952e423086a"
 metafile = true
 
 [[files]]
@@ -217,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "9320866236b43f1a6610e0656a504ab5fc45df2b5bf0b42df5cbfbac2e9f221e"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "686300862a6dfe14ef7f97e4995c49e46ed67e8dcf7c85e7e1fca81982217865"
 metafile = true
 
 [[files]]
@@ -257,6 +343,11 @@ metafile = true
 [[files]]
 file = "mods/item-scroller.pw.toml"
 hash = "55a6e99e45313cb3d8bea34f1d7699bb2f4cbc71ad94ef193af0e98254bc67b0"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "582eb145777b7d4edb4582c5cf021ce2b8da9ce5d19b9999509986af3a7b5310"
 metafile = true
 
 [[files]]
@@ -375,8 +466,18 @@ hash = "637c14fb70aadb1b1717e15d0de482e2728b9e48630a043685ae46984a735cb0"
 metafile = true
 
 [[files]]
+file = "mods/syncmatica.pw.toml"
+hash = "951ed77d6c6c481ca28f58fdf5df674c20f9ebf250d1da80ad5f9f0b9b61be74"
+metafile = true
+
+[[files]]
 file = "mods/tweakermore.pw.toml"
 hash = "39ae252f7d5cb93fd0fb9cc20fd313f2e6319376895d4751f558607f2e9b3d44"
+metafile = true
+
+[[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "5bbd0a90fb74259c1b2b95aeb163fc8349538deb396887d946a7fc44b810b641"
 metafile = true
 
 [[files]]
@@ -431,3 +532,12 @@ metafile = true
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"
 hash = "516d14125f72db859614537502442f32a89227da9522e4526a008c80734b5560"
+
+[[files]]
+file = "resourcepacks/fabric-mod-chinese-translation-resource-pack.zip"
+hash = "eac42c5e0b2928117f89a2bba8a9c5873e7b4a47902fce48cb9d92389a773e19"
+
+[[files]]
+file = "resourcepacks/modern-font-pack.pw.toml"
+hash = "7f7ece8d3c2aec1b459aaccb98494647944d77a7bf2d4da2729449fd48342299"
+metafile = true
