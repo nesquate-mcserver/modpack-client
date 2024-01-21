@@ -2,10 +2,10 @@
     "main_menu": {
         "bottom_right": [
             {
-                "text":"1.1.0 Beta"
+                "text":"1.1.0 Beta 2"
             },
             {
-                "text": "Nesquate Server's Client Modpack",
+                "text": "Nesquate Lazy Modpack",
                 "clickEvent": {
                     "action": "open_url",
                     "value": "https://discord.gg/mSdMqEAAFW"
