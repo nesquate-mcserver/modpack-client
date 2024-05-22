@@ -1,0 +1,13 @@
+name = "Nesquate's Lazy Modpack"
+author = "Nesquate"
+version = "2.0.0-alpha.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a3a0915523dac9691bc2930942f9266ab3e2756ec4b8432fda1afea97043611c"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.20.4"

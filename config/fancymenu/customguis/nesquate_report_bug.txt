@@ -1,3 +1,0 @@
-identifier = nesquate_report_bug
-title = 回報 Bug
-allowesc = true
