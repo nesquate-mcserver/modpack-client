@@ -9,10 +9,15 @@ fi
 
 mkdir -p $PUBLISH_DIRECTORY
 
-cp -R "$FO_BASE_DIRECTORY/*" "$PUBLISH_DIRECTORY/"
-cp -Rf "$BASE_DIRECTORY/*" "$PUBLISH_DIRECTORY/"
+for file in $FO_BASE_DIRECTORY/*; do
+    cp -R $file $PUBLISH_DIRECTORY
+done
 
-PREVIOUS=pwd
+for file in $BASE_DIRECTORY/*; do
+    cp -Rf $file $PUBLISH_DIRECTORY
+done
+
+PREVIOUS=$(pwd)
 cd $PUBLISH_DIRECTORY
 packwiz modrinth export
 cd $PREVIOUS
