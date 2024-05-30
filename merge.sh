@@ -3,6 +3,12 @@ PUBLISH_DIRECTORY="./publish/$MINECRAFT_VERSION"
 BASE_DIRECTORY="./base"
 FO_BASE_DIRECTORY="./base-fo/Packwiz/$MINECRAFT_VERSION"
 
+# Refresh base before merging
+PREVIOUS=$(pwd)
+cd $BASE_DIRECTORY
+packwiz refresh
+cd $PREVIOUS
+
 if [ -d $PUBLISH_DIRECTORY ]; then
     rm -rf $PUBLISH_DIRECTORY
 fi
