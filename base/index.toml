@@ -6,6 +6,11 @@ hash = "868db465e6635a883d1b692d56164c1c14d687d960a93e6f9d9fd74c1cd43f2e"
 metafile = true
 
 [[files]]
+file = "mods/cocoainput.pw.toml"
+hash = "4687528a6cd2f8eb60e3f83b929607442f7de95cf7346161637ef529f9e060a9"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "b802b607dc76cbaba1cbf085be896d2c6996bef39b64a09fcf5ddb8b6a0ad968"
 metafile = true

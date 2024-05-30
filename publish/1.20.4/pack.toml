@@ -1,12 +1,12 @@
 name = "Nesquate's Lazy Modpack"
 author = "Nesquate"
-version = "2.0.0-alpha.1"
+version = "2.0.0-alpha.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5b233846e6d1aaedc07bcc5eaf64b61dacfa533b46d85f3e4414d5ceb7d4875d"
+hash = "6e13057342ff1d460e74a1447f6699b76a13f0d1975c8255bd3d1f082dd5a15f"
 
 [versions]
 fabric = "0.15.11"
