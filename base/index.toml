@@ -6,7 +6,7 @@ hash = "98f14bf8362c3305034735745b989ecc206837c6840798348e2b07c5790577c1"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "418163ce6f93924b8d98df10533f18af179293338fac3a05758db8d4c136c376"
+hash = "0ed6ffdfaa75e5e578c411e6406d56b1d99e7646232c8ba3050b91971beb5646"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -139,6 +139,10 @@ hash = "6b75cba96a9c068dd95fe9fc79108998f713c991bcb770f3aef29a599cf9116f"
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "c8cf0d39e73a5c44ebe9f1be3d7438f63bf2dca4496230aed6291638fd1ef90d"
+
+[[files]]
+file = "config/yosbr/servers.dat"
+hash = "155e3cec5072c68f4c7f29c3de0a5a8b9e96080943d69ca13731277be2438fb7"
 
 [[files]]
 file = "mods/carpet.pw.toml"
