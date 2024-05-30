@@ -138,7 +138,7 @@ hash = "6b75cba96a9c068dd95fe9fc79108998f713c991bcb770f3aef29a599cf9116f"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "c2031a67e6983bf7efddde352fc9b4562837273316864608c6a0f5659e42de82"
+hash = "c8cf0d39e73a5c44ebe9f1be3d7438f63bf2dca4496230aed6291638fd1ef90d"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -443,6 +443,10 @@ metafile = true
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
 hash = "27bd0ff6aac4db1135c983aaa41fe5c2e2b585d0733655e1ae655f1a8350318f"
 metafile = true
+
+[[files]]
+file = "resourcepacks/fabric-mod-chinese-traslation-resouce-pack.zip"
+hash = "9dcd0abf800dd04f7b470dfbabf9d8a1d4ccb0e78660732de192740c0867b1b6"
 
 [[files]]
 file = "resourcepacks/modern-font-pack.pw.toml"
