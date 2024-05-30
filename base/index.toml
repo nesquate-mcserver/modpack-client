@@ -122,7 +122,7 @@ hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "4dd96724f4036b0e3cade5479eee9fe4fd2e8264fcaec6f9e7cecf326d6994bf"
+hash = "a512cf1322627530de295686bf0e4f0d75877682d5e463133697e34cedd1c0df"
 
 [[files]]
 file = "mods/carpet.pw.toml"
