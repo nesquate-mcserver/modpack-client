@@ -122,7 +122,7 @@ hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "a512cf1322627530de295686bf0e4f0d75877682d5e463133697e34cedd1c0df"
+hash = "c2031a67e6983bf7efddde352fc9b4562837273316864608c6a0f5659e42de82"
 
 [[files]]
 file = "mods/carpet.pw.toml"
@@ -152,4 +152,9 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "b802b607dc76cbaba1cbf085be896d2c6996bef39b64a09fcf5ddb8b6a0ad968"
+metafile = true
+
+[[files]]
+file = "resourcepacks/modern-font-pack.pw.toml"
+hash = "7f7ece8d3c2aec1b459aaccb98494647944d77a7bf2d4da2729449fd48342299"
 metafile = true
