@@ -265,6 +265,16 @@ hash = "a8c3a598ab5619672bd3516198953e6e19efcafe00533a67e5119d612bd62ac9"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "21b5692b0db5c072aa179eb9358af5f4a38afec8012fb83c5194553b56657121"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "fe6abe1ea33393fe1441801f79eda74ea892e5f4b677a56eccafafcbf4d253ca"
+metafile = true
+
+[[files]]
 file = "mods/lambdynlights.pw.toml"
 hash = "bad70b56b4d0112871be034ff4dad2303b1810bdd61a75894af73b7ba25250da"
 metafile = true
@@ -332,6 +342,11 @@ metafile = true
 [[files]]
 file = "mods/puzzle.pw.toml"
 hash = "c8e63d0b1770e8e36bee5ae3172693113b56ead0095ec101ed8562c5cf7066ad"
+metafile = true
+
+[[files]]
+file = "mods/raknetify.pw.toml"
+hash = "943e13d07bc64f2410603366e77b1966f00bda18bf6430a9149282ac1d06a0fd"
 metafile = true
 
 [[files]]

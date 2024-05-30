@@ -11,6 +11,21 @@ hash = "4687528a6cd2f8eb60e3f83b929607442f7de95cf7346161637ef529f9e060a9"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "21b5692b0db5c072aa179eb9358af5f4a38afec8012fb83c5194553b56657121"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "fe6abe1ea33393fe1441801f79eda74ea892e5f4b677a56eccafafcbf4d253ca"
+metafile = true
+
+[[files]]
+file = "mods/raknetify.pw.toml"
+hash = "943e13d07bc64f2410603366e77b1966f00bda18bf6430a9149282ac1d06a0fd"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "b802b607dc76cbaba1cbf085be896d2c6996bef39b64a09fcf5ddb8b6a0ad968"
 metafile = true
