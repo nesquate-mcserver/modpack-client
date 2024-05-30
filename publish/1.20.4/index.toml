@@ -85,6 +85,10 @@ file = "config/yosbr/config/lambdynlights.toml"
 hash = "c973862727ba35dec1de9ef22f333e1257e5f753f72fbcaf17ddefa62bb61b8c"
 
 [[files]]
+file = "config/yosbr/config/languagereload.json"
+hash = "f33c722291a8b5e98605c0c4297e78d5af50c082bd8a765218893c4d54a819bf"
+
+[[files]]
 file = "config/yosbr/config/midnightcontrols.json"
 hash = "b792f2977c2889e388d0a0e83e316ed4f27050729d86c8623e8472accb8a2a46"
 
@@ -118,7 +122,7 @@ hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "cfc59667fd8bd2e11e2a26f30d7ea787f34c844be20931b06a8d1efbc8aee199"
+hash = "4d9f1dcbc0200c6d93167814b0552e273cc4738ef5ebbd66d17bc91fde389825"
 
 [[files]]
 file = "mods/animatica.pw.toml"
