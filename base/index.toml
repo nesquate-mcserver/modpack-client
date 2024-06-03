@@ -165,6 +165,11 @@ hash = "fe6abe1ea33393fe1441801f79eda74ea892e5f4b677a56eccafafcbf4d253ca"
 metafile = true
 
 [[files]]
+file = "mods/letmeclickandsend.pw.toml"
+hash = "aa100d7bad29a0a2b76361b66fb42c1cf91cce76e1de37598e5a5b96c52b6b76"
+metafile = true
+
+[[files]]
 file = "mods/litematica.pw.toml"
 hash = "cfe29cfca29dbb7e4d357dfad08cea55146c310bfd41a9c58b2dbcc8ae7fa0b5"
 metafile = true
