@@ -6,7 +6,7 @@ hash = "98f14bf8362c3305034735745b989ecc206837c6840798348e2b07c5790577c1"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "77d5597151dc5d5ea0814f46e66e7c51de7dd36be4faf59b84fada8f102107d2"
+hash = "696fb62f4c621358b8bc46a38b7df1f1717a95568fae4e5c87575922f925eb37"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -162,6 +162,11 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "fe6abe1ea33393fe1441801f79eda74ea892e5f4b677a56eccafafcbf4d253ca"
+metafile = true
+
+[[files]]
+file = "mods/letmeclickandsend.pw.toml"
+hash = "aa100d7bad29a0a2b76361b66fb42c1cf91cce76e1de37598e5a5b96c52b6b76"
 metafile = true
 
 [[files]]
