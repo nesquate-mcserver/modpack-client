@@ -121,20 +121,12 @@ file = "config/yosbr/config/sodium-options.json"
 hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
 
 [[files]]
-file = "config/yosbr/journeymap/config/5.9/journeymap.core.config"
-hash = "e3aaa7b32adfe477773c53bb30e76b732129e539a7bdf95fe371c2241107ca08"
+file = "config/yosbr/config/xaerominimap.txt"
+hash = "718c27b6ea73a2e261ee427330aa19a2d1301cbaab1f8de1c5317263ae790de0"
 
 [[files]]
-file = "config/yosbr/journeymap/config/5.9/journeymap.fullmap.config"
-hash = "6b75cba96a9c068dd95fe9fc79108998f713c991bcb770f3aef29a599cf9116f"
-
-[[files]]
-file = "config/yosbr/journeymap/config/5.9/journeymap.minimap.config"
-hash = "6b75cba96a9c068dd95fe9fc79108998f713c991bcb770f3aef29a599cf9116f"
-
-[[files]]
-file = "config/yosbr/journeymap/config/5.9/journeymap.minimap2.config"
-hash = "6b75cba96a9c068dd95fe9fc79108998f713c991bcb770f3aef29a599cf9116f"
+file = "config/yosbr/config/xaeroworldmap.txt"
+hash = "7bcaa909613c955d99e6982018a780622dfc91c6dd462791f5e67c17599d5a3f"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -211,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhancedblockentities.pw.toml"
-hash = "76146f84f2567f4275ba2ecbf43caf3c0740aa87c605d3f2cd489d3d7597ffd2"
+hash = "25f1ba599507672b3753715e7b25c5afd511bc1e00f72dbc8d35a4818a500a22"
 metafile = true
 
 [[files]]
@@ -226,17 +218,17 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "13d2bf498c5078d093be5561c8cc9919c5e018a1574b06ab2a6717156bb1f243"
+hash = "fc560f912197887fe303693a1b0b4ab24b0daa8b266cfb0d699442567b69ad57"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6791770c4172633340a7899231b94187a6b9be55e4ea22b63f94e68309d3b563"
+hash = "fe7dbe82cf758cc6a73e96f57229e6be3696588388da757fbd936ac8c08c224f"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "88d37784436c9b5dc5c74b9169e3b9af806cc9e1b807d496d9b07a45f24f1483"
+hash = "fd77f7cba585f7c462c9ed313886628a9330d6cc0534cac6bdde274c040a60ea"
 metafile = true
 
 [[files]]
@@ -266,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "61f036cd78d5b35d780f2234268a432b6e94f3ffe8dde574e25ff21e16937317"
+hash = "947ddf6021e3aafd85380ed394f9c35eb0d8ec4ebb01e5cc318fe5f4e26fda9e"
 metafile = true
 
 [[files]]
@@ -282,11 +274,6 @@ metafile = true
 [[files]]
 file = "mods/isxander-main-menu-credits.pw.toml"
 hash = "a8c3a598ab5619672bd3516198953e6e19efcafe00533a67e5119d612bd62ac9"
-metafile = true
-
-[[files]]
-file = "mods/journeymap.pw.toml"
-hash = "21b5692b0db5c072aa179eb9358af5f4a38afec8012fb83c5194553b56657121"
 metafile = true
 
 [[files]]
@@ -415,8 +402,18 @@ hash = "cd55d6298c52f17e360d2166ca5a7fc23083118f761deca96f23f6e90d40a314"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "7b9447d2c9bebbace5cd2de479ae2acb0bad73d9f09c85f3bf820e1fc2341665"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "d51319ac7b9e0fdedb835346c235748b0a0ceade7277356a7510840d460d05e9"
+metafile = true
+
+[[files]]
 file = "mods/yet_another_config_lib_v3.pw.toml"
-hash = "58dd7843f9390e1a9af4735c24c3d2257e72b44d7a5b81016dd45e52997a6407"
+hash = "1b645fc188cedd0396c5f44da00d1f28eb7cccde885b99944678992582c5e573"
 metafile = true
 
 [[files]]
@@ -450,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "27bd0ff6aac4db1135c983aaa41fe5c2e2b585d0733655e1ae655f1a8350318f"
+hash = "f85768c82c9ba50c3cf200db8d92f2eeb5ae27faeb17d64f250e7c3f38db2523"
 metafile = true
 
 [[files]]
