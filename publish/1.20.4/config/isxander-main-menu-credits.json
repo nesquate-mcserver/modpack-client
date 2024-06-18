@@ -2,7 +2,7 @@
     "main_menu": {
         "bottom_right": [
             {
-                "text": "Nesquate Lazy Modpack 2.0.1",
+                "text": "Nesquate Lazy Modpack 2.1.0",
                 "clickEvent": {
                     "action": "open_url",
                     "value": "https://discord.gg/mSdMqEAAFW"
