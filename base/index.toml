@@ -155,8 +155,8 @@ hash = "4687528a6cd2f8eb60e3f83b929607442f7de95cf7346161637ef529f9e060a9"
 metafile = true
 
 [[files]]
-file = "mods/journeymap.pw.toml"
-hash = "21b5692b0db5c072aa179eb9358af5f4a38afec8012fb83c5194553b56657121"
+file = "mods/fabric-api.pw.toml"
+hash = "fe7dbe82cf758cc6a73e96f57229e6be3696588388da757fbd936ac8c08c224f"
 metafile = true
 
 [[files]]
@@ -192,6 +192,16 @@ metafile = true
 [[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "cd55d6298c52f17e360d2166ca5a7fc23083118f761deca96f23f6e90d40a314"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "7b9447d2c9bebbace5cd2de479ae2acb0bad73d9f09c85f3bf820e1fc2341665"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "d51319ac7b9e0fdedb835346c235748b0a0ceade7277356a7510840d460d05e9"
 metafile = true
 
 [[files]]
