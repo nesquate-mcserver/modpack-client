@@ -121,20 +121,12 @@ file = "config/yosbr/config/sodium-options.json"
 hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
 
 [[files]]
-file = "config/yosbr/journeymap/config/5.9/journeymap.core.config"
-hash = "e3aaa7b32adfe477773c53bb30e76b732129e539a7bdf95fe371c2241107ca08"
+file = "config/yosbr/config/xaerominimap.txt"
+hash = "718c27b6ea73a2e261ee427330aa19a2d1301cbaab1f8de1c5317263ae790de0"
 
 [[files]]
-file = "config/yosbr/journeymap/config/5.9/journeymap.fullmap.config"
-hash = "6b75cba96a9c068dd95fe9fc79108998f713c991bcb770f3aef29a599cf9116f"
-
-[[files]]
-file = "config/yosbr/journeymap/config/5.9/journeymap.minimap.config"
-hash = "6b75cba96a9c068dd95fe9fc79108998f713c991bcb770f3aef29a599cf9116f"
-
-[[files]]
-file = "config/yosbr/journeymap/config/5.9/journeymap.minimap2.config"
-hash = "6b75cba96a9c068dd95fe9fc79108998f713c991bcb770f3aef29a599cf9116f"
+file = "config/yosbr/config/xaeroworldmap.txt"
+hash = "7bcaa909613c955d99e6982018a780622dfc91c6dd462791f5e67c17599d5a3f"
 
 [[files]]
 file = "config/yosbr/options.txt"
