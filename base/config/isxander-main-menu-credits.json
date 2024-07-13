@@ -2,12 +2,16 @@
     "main_menu": {
         "bottom_right": [
             {
-                "text": "Nesquate Lazy Modpack 2.1.0",
+                "text": "Nesquate Lazy Modpack 2.1.0-retired",
                 "clickEvent": {
                     "action": "open_url",
                     "value": "https://discord.gg/mSdMqEAAFW"
                 }
-            }
+            },
+	    {
+		"text": "此版本已結束支援，請立刻升級到最新版",
+		"color": "red"
+	    }
         ]
     },
     "pause_menu": {

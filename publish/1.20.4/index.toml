@@ -6,7 +6,7 @@ hash = "98f14bf8362c3305034735745b989ecc206837c6840798348e2b07c5790577c1"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "263e68cbe7b0eb5e3f5c5c440376063bf1820431ffd8ef5c99fe606a1f99c6b0"
+hash = "c9d02feb98bec9ca915c6f19e956c9327f010ccbce40a9e7306f042aaf349132"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -399,6 +399,11 @@ metafile = true
 [[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "cd55d6298c52f17e360d2166ca5a7fc23083118f761deca96f23f6e90d40a314"
+metafile = true
+
+[[files]]
+file = "mods/viafabric.pw.toml"
+hash = "c5d7358bb9b94791d12a67dd1deb99f5868988c1a623a3a3e55613c3816352af"
 metafile = true
 
 [[files]]
