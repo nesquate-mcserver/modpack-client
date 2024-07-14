@@ -6,7 +6,7 @@ hash = "98f14bf8362c3305034735745b989ecc206837c6840798348e2b07c5790577c1"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "c9d02feb98bec9ca915c6f19e956c9327f010ccbce40a9e7306f042aaf349132"
+hash = "d5fec2235aebb0df9e517a40f21f5658dfafac0a658c2fb9cceacc62d044a6c3"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -42,7 +42,7 @@ hash = "057e9e53790394db8b700616de3c235b0af3dc12fe7731a66ad20026acb9d991"
 
 [[files]]
 file = "config/yosbr/config/controlify.json"
-hash = "ba199dc4caf8bd40d40e319e0a28ee21553a65006219f989f3930331fa3e6295"
+hash = "8c79b471bad59fcb9d73c4689dd6687be63facefd73a17f11f1bf4acf00c158d"
 
 [[files]]
 file = "config/yosbr/config/debugify.json"
@@ -50,7 +50,7 @@ hash = "70785772d8e66e1b75fa58ef0ceff1b598a78a025b05908ffd03c66cb6a1216d"
 
 [[files]]
 file = "config/yosbr/config/dynamic_fps.json"
-hash = "30bf7c21557b8e83356ef043c044d76478b531013a290c97443740b2c7a1b73d"
+hash = "904f649068d150556bdc1d4477610a3f9234d663ac8af69bf2366b70cbcc8bec"
 
 [[files]]
 file = "config/yosbr/config/entity_texture_features.json"
@@ -62,7 +62,7 @@ hash = "e5210a18a1f67104b6eda85a9ea68f475b75a71bab9cff7cf7dbcc10f627369a"
 
 [[files]]
 file = "config/yosbr/config/fabrishot.properties"
-hash = "ba5f5ccfd31e25f9feb4730dfc01ef7bee4156b3336453cbe797ffb0c51ab46f"
+hash = "f5ff731194f66727bfeb75a28a70104fc4687cbc84b69e60c94fe1b7d901f453"
 
 [[files]]
 file = "config/yosbr/config/fastquit.toml"
@@ -74,15 +74,11 @@ hash = "f0fa91c42d9a753f8f2773f193864fe248fe1a3527189d1490a0e0094bcd7049"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "08b789827f7cbfaf5bffd5aedb6dfe9889e216e87be4674299781934658767af"
-
-[[files]]
-file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "e9c780a3548faea77d7230f83a97497cf30ae5148d1855c632310f6fb69a5cec"
+hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
-hash = "c973862727ba35dec1de9ef22f333e1257e5f753f72fbcaf17ddefa62bb61b8c"
+hash = "326ec0c840e65aedf5c6048ea6016d551be38cf23f692949e105a4a388ad8be7"
 
 [[files]]
 file = "config/yosbr/config/languagereload.json"
@@ -102,7 +98,7 @@ hash = "3c5317882a50941e2384b9739ec3aa688f297105691c9d8d577936ad29c1d575"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "dacff858c9d3d3d96a4b6b902133d0691e320e21a2f57adc6bb6cb9875763582"
+hash = "cab638ef75572d2c4bcc9dfd583283e7bbe927fd6c3834930bed52e2dbcac063"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -110,11 +106,11 @@ hash = "60eb0902eac918d39fb5eb7df66314f5748aef0259b4ad5bdeacd27dfff120ca"
 
 [[files]]
 file = "config/yosbr/config/puzzle.json"
-hash = "41397f8ebb5a1137f559761cee66b18a85c7289e89ac84a738140d651eecccdd"
+hash = "4449fb9b3440c4367f861d0f8e75b879caf6c897cb47569f13929ca37d6c864d"
 
 [[files]]
 file = "config/yosbr/config/rrls.toml"
-hash = "ade080447491d2a630c65b7343df636833f8283fe5af9db74b51c4e122bf0550"
+hash = "59fa5a7fdbcc83cc2dd9a23542d0f950d2e6ba64c368b456c4afc5f8900d8e1d"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
@@ -138,22 +134,17 @@ hash = "155e3cec5072c68f4c7f29c3de0a5a8b9e96080943d69ca13731277be2438fb7"
 
 [[files]]
 file = "mods/carpet.pw.toml"
-hash = "445ab1ae4465ec4aee4a853aa4e5bd82d0d9b729904d7df02ca96c94e5843bb1"
-metafile = true
-
-[[files]]
-file = "mods/cocoainput.pw.toml"
-hash = "4687528a6cd2f8eb60e3f83b929607442f7de95cf7346161637ef529f9e060a9"
+hash = "c4927cc6ecf2bec0f48877de9a6a54a706c3b6134d5a169e5307f999baca5316"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fe7dbe82cf758cc6a73e96f57229e6be3696588388da757fbd936ac8c08c224f"
+hash = "6cd2d021b71d8172819a6a793ea7a6276822da398c3c74a63b022991414024e5"
 metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "fe6abe1ea33393fe1441801f79eda74ea892e5f4b677a56eccafafcbf4d253ca"
+hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
 metafile = true
 
 [[files]]
@@ -162,50 +153,21 @@ hash = "aa100d7bad29a0a2b76361b66fb42c1cf91cce76e1de37598e5a5b96c52b6b76"
 metafile = true
 
 [[files]]
-file = "mods/litematica.pw.toml"
-hash = "cfe29cfca29dbb7e4d357dfad08cea55146c310bfd41a9c58b2dbcc8ae7fa0b5"
-metafile = true
-
-[[files]]
-file = "mods/malilib.pw.toml"
-hash = "1f64a0fd8804d7b38014217269964ef7ff41c146b2d4660614390bf4703d0b72"
-metafile = true
-
-[[files]]
 file = "mods/raknetify.pw.toml"
-hash = "943e13d07bc64f2410603366e77b1966f00bda18bf6430a9149282ac1d06a0fd"
+hash = "776a8c141073e136f9b13daef58089b6e3b19bc86940b52d65bc57a637bacdd5"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "b802b607dc76cbaba1cbf085be896d2c6996bef39b64a09fcf5ddb8b6a0ad968"
-metafile = true
-
-[[files]]
-file = "mods/tweakeroo.pw.toml"
-hash = "cd55d6298c52f17e360d2166ca5a7fc23083118f761deca96f23f6e90d40a314"
-metafile = true
-
-[[files]]
-file = "mods/viafabric.pw.toml"
-hash = "c5d7358bb9b94791d12a67dd1deb99f5868988c1a623a3a3e55613c3816352af"
+hash = "79ec58c99084d5b02044e04b6860bc6339868e95e1a8c7a982f5400ee777b178"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "7b9447d2c9bebbace5cd2de479ae2acb0bad73d9f09c85f3bf820e1fc2341665"
+hash = "9f590e02371a224d8a005ec5f6fe0f025f1b3642345c17d1feaa2cb4f4028fdd"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "d51319ac7b9e0fdedb835346c235748b0a0ceade7277356a7510840d460d05e9"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fabric-mod-chinese-traslation-resouce-pack.zip"
-hash = "9dcd0abf800dd04f7b470dfbabf9d8a1d4ccb0e78660732de192740c0867b1b6"
-
-[[files]]
-file = "resourcepacks/modern-font-pack.pw.toml"
-hash = "7f7ece8d3c2aec1b459aaccb98494647944d77a7bf2d4da2729449fd48342299"
+hash = "e9f628cc8d3a658a9b0ceb2272993d0dd9f5736aad1fb8178e6071cd63a8438e"
 metafile = true
