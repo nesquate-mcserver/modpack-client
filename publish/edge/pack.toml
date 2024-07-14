@@ -1,6 +1,6 @@
 name = "Nesquate's Lazy Modpack"
 author = "Nesquate"
-version = "2.1.0"
+version = "3.0.0-m1.20240700"
 pack-format = "packwiz:1.1.0"
 
 [index]
