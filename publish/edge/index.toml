@@ -6,7 +6,7 @@ hash = "98f14bf8362c3305034735745b989ecc206837c6840798348e2b07c5790577c1"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "d5fec2235aebb0df9e517a40f21f5658dfafac0a658c2fb9cceacc62d044a6c3"
+hash = "b3ca1ad8210420088844306ad9002ca8d8b356e0eea3a08cfca2b42e3f418e19"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -137,6 +137,10 @@ file = "config/yosbr/servers.dat"
 hash = "155e3cec5072c68f4c7f29c3de0a5a8b9e96080943d69ca13731277be2438fb7"
 
 [[files]]
+file = "mods/CocoaInput-1.20.5-fabric-4.0.11-PREVIEW.jar"
+hash = "930229c09f2ac7f775b92168041576bb9a23af75967ab605e04df53c559387e5"
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "8cf639c849e6c731af3fba8d8f42fb8aca6e3a9dae102411c38c4c44e6872af7"
 metafile = true
@@ -168,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "f50ea6e966d745b067723772ba94c185e5959785453df3f0fb642857790c581d"
+hash = "ab781b221900879c4cd79547282978c6fff6ccd4a23d94bcb1d7c257bb9cc847"
 metafile = true
 
 [[files]]
@@ -262,6 +266,11 @@ hash = "e8fcfd0031b396bc2d41a29171750ccbbe8fd2cf0bbf56cff9781c030b6bff07"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "e4ad435d9280602f0bd17e860cacc1082e2851c9347d2572a828a630c72fb112"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
 metafile = true
@@ -298,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "ec11f20ff4ce0c26d4d01140b23721b619340b0c5066d7232bd981914df6b541"
+hash = "ce517f98ae23ab7180c5bbbcfb7f7785364ee2e09d26033b89b9b242e9d0dee9"
 metafile = true
 
 [[files]]
@@ -309,6 +318,11 @@ metafile = true
 [[files]]
 file = "mods/morechathistory.pw.toml"
 hash = "c3d0746be98e5f5eaf1731a84e84724289f45f6b49836c5106e8d4669d3f84ec"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "0bb4c79e97f3eb1a710d7621d028682068a7504b9c53be56b40bd57cd0c0ef6a"
 metafile = true
 
 [[files]]
@@ -343,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "4c5909eefaed6f4759d67f7c99221708d0b1d00c7786bd2a5bd32a32ca015d74"
+hash = "481281dcc5eb94fc3493a1289c62dcd398e5909263e3e5a070012100cb08cce9"
 metafile = true
 
 [[files]]
@@ -403,9 +417,9 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "fed1ec3cd43f0c72e11e9e819cf63757d2576a56d566cdbd69ed017c94c0f412"
+hash = "1cc6ab981fe4510bdc16705c62ca301f31cdf9402e8b251263510725525423d9"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "7e6e135a52249ffe97344901747069d5a142a6cf41e6b5be9230644b5878752d"
+hash = "d05165a989db3e35dffa5a04117b57c62d3fb9bcf16c376138ffe12189e6381d"
 metafile = true

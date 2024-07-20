@@ -6,7 +6,7 @@ hash = "98f14bf8362c3305034735745b989ecc206837c6840798348e2b07c5790577c1"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "d5fec2235aebb0df9e517a40f21f5658dfafac0a658c2fb9cceacc62d044a6c3"
+hash = "b3ca1ad8210420088844306ad9002ca8d8b356e0eea3a08cfca2b42e3f418e19"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -133,6 +133,10 @@ file = "config/yosbr/servers.dat"
 hash = "155e3cec5072c68f4c7f29c3de0a5a8b9e96080943d69ca13731277be2438fb7"
 
 [[files]]
+file = "mods/CocoaInput-1.20.5-fabric-4.0.11-PREVIEW.jar"
+hash = "930229c09f2ac7f775b92168041576bb9a23af75967ab605e04df53c559387e5"
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "c4927cc6ecf2bec0f48877de9a6a54a706c3b6134d5a169e5307f999baca5316"
 metafile = true
@@ -140,6 +144,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "6cd2d021b71d8172819a6a793ea7a6276822da398c3c74a63b022991414024e5"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "e4ad435d9280602f0bd17e860cacc1082e2851c9347d2572a828a630c72fb112"
 metafile = true
 
 [[files]]

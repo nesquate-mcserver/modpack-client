@@ -2,10 +2,10 @@
     "main_menu": {
         "bottom_right": [
             {
-                "text": "3.0.0-m1.20240700"
+                "text": "3.0.0-beta.1"
             },
             {
-                "text": "Codename \"Red\" Nesquate Lazy Modpack",
+                "text": "Nesquate Lazy Modpack Codename \"Red\"",
                 "clickEvent": {
                     "action": "open_url",
                     "value": "https://discord.gg/mSdMqEAAFW"
