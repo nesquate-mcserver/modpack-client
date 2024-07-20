@@ -143,6 +143,11 @@ hash = "6cd2d021b71d8172819a6a793ea7a6276822da398c3c74a63b022991414024e5"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "e4ad435d9280602f0bd17e860cacc1082e2851c9347d2572a828a630c72fb112"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
 metafile = true
