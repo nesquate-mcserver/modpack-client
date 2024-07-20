@@ -133,6 +133,10 @@ file = "config/yosbr/servers.dat"
 hash = "155e3cec5072c68f4c7f29c3de0a5a8b9e96080943d69ca13731277be2438fb7"
 
 [[files]]
+file = "mods/CocoaInput-1.20.5-fabric-4.0.11-PREVIEW.jar"
+hash = "930229c09f2ac7f775b92168041576bb9a23af75967ab605e04df53c559387e5"
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "c4927cc6ecf2bec0f48877de9a6a54a706c3b6134d5a169e5307f999baca5316"
 metafile = true
