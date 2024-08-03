@@ -162,6 +162,16 @@ hash = "aa100d7bad29a0a2b76361b66fb42c1cf91cce76e1de37598e5a5b96c52b6b76"
 metafile = true
 
 [[files]]
+file = "mods/litematica.pw.toml"
+hash = "fa68a6845d756dad71cffe779a536de542d68c76915cfd86204855671048286b"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "702034dbed70640cc6a634dd2387264aa5beb77fceecc918a4ad68acbdd52cf1"
+metafile = true
+
+[[files]]
 file = "mods/raknetify.pw.toml"
 hash = "776a8c141073e136f9b13daef58089b6e3b19bc86940b52d65bc57a637bacdd5"
 metafile = true
@@ -169,6 +179,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "79ec58c99084d5b02044e04b6860bc6339868e95e1a8c7a982f5400ee777b178"
+metafile = true
+
+[[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "dd2a2b41bbe6a4509efb7ddf1459205dfa5b0d0137c747b49294366c4dfe5e1f"
 metafile = true
 
 [[files]]

@@ -5,6 +5,10 @@ file = "config/fabric_loader_dependencies.json"
 hash = "98f14bf8362c3305034735745b989ecc206837c6840798348e2b07c5790577c1"
 
 [[files]]
+file = "config/immediatelyfast.json"
+hash = "fe91b244220f7342db0552fd295a7ac6ed0abf830db06d63b1fd89bbedcf6742"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "b3ca1ad8210420088844306ad9002ca8d8b356e0eea3a08cfca2b42e3f418e19"
 
@@ -162,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "b32b5cc978a0df2cf46401d3b194e436b3732025588ab92068cabbc7a1f5c056"
+hash = "46c81e885769d00c46294b3bda90df5eb7fb7dd443e982afe8acf7fd9f8192d6"
 metafile = true
 
 [[files]]
@@ -177,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "f978fb755114f41fe19262e0afab134c56cdfa14ac403acc642c69c6c62f9333"
+hash = "428eec696f3d3c6be80a562e14c9c125ea76052c5b2dd7023e8d1ceba504c3bb"
 metafile = true
 
 [[files]]
@@ -187,12 +191,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic_fps.pw.toml"
-hash = "319ce013768ea23b3944d7d384a2d4e9d43bb77128063050af6c4391b3dff703"
+hash = "dd1b611db4f1761dcc2cc380da6222950c9ce89e5fb1d0a04eff827f2e5ba7cf"
 metafile = true
 
 [[files]]
 file = "mods/e4mc_minecraft.pw.toml"
-hash = "f2942effcaac370a0f4390d423cfa51ad47cf98ceea84509f82c3dc56ec453cc"
+hash = "414767580618ef4e044153dbce5abc67673b1ffd9ecfc41c306855773f701eb3"
 metafile = true
 
 [[files]]
@@ -286,6 +290,11 @@ hash = "aa100d7bad29a0a2b76361b66fb42c1cf91cce76e1de37598e5a5b96c52b6b76"
 metafile = true
 
 [[files]]
+file = "mods/litematica.pw.toml"
+hash = "fa68a6845d756dad71cffe779a536de542d68c76915cfd86204855671048286b"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "28eff4d75f23363df3a8eeb4818fb1fd7fe2fa3fe6d2ada03545c31f62eb815a"
 metafile = true
@@ -293,6 +302,11 @@ metafile = true
 [[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "0ccc4fed97855325f60ad11f87f29ba22f8b6f733d99ea97bf24c0a7af720b21"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "702034dbed70640cc6a634dd2387264aa5beb77fceecc918a4ad68acbdd52cf1"
 metafile = true
 
 [[files]]
@@ -307,7 +321,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "ce517f98ae23ab7180c5bbbcfb7f7785364ee2e09d26033b89b9b242e9d0dee9"
+hash = "3a4333549a92c9d1aaaf971b1fde8729547b3a7c495e1ea6f7faebd39b9e938b"
 metafile = true
 
 [[files]]
@@ -342,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "d8498fbc2dd1fbee37db597199ea10349bdd2b8ffcd52d4e7445fbccaef31555"
+hash = "ab61fa10605c95cf47eec17a9addad12fd818d5c5c24f3ffa403ffe586e6b7f6"
 metafile = true
 
 [[files]]
@@ -381,6 +395,11 @@ hash = "6646f0a19b38b583cf44a68d5b31e17e1ad3104ec28121e49c5de73d214333ec"
 metafile = true
 
 [[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "dd2a2b41bbe6a4509efb7ddf1459205dfa5b0d0137c747b49294366c4dfe5e1f"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "9f590e02371a224d8a005ec5f6fe0f025f1b3642345c17d1feaa2cb4f4028fdd"
 metafile = true
@@ -407,7 +426,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Chat_Reporting_Helper.pw.toml"
-hash = "e952110e87a6a07a1da63a5fa6483577332240da4d8d81f5b4560cc9dbe353dc"
+hash = "de3638002da8769311c320caefe3da2930d7ff5b1a384d3114649875c41d9004"
 metafile = true
 
 [[files]]
@@ -417,9 +436,9 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "1cc6ab981fe4510bdc16705c62ca301f31cdf9402e8b251263510725525423d9"
+hash = "9efd4535b68ed62a75ca4e3178b36dd07d4971740f35547141f775e89dca0fe0"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "d05165a989db3e35dffa5a04117b57c62d3fb9bcf16c376138ffe12189e6381d"
+hash = "82783a119fdd8e553b945be2ed2bd33c9eaa3c68a44b58c5925be85d1ea05a6c"
 metafile = true
