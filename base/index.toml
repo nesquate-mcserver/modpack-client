@@ -5,6 +5,66 @@ file = "config/fabric_loader_dependencies.json"
 hash = "98f14bf8362c3305034735745b989ecc206837c6840798348e2b07c5790577c1"
 
 [[files]]
+file = "config/fancymenu/assets/button_bg.png"
+hash = "f5ff1f5bf0fec8e7b35f704541eb8f254b371556a0835ba79df011ff8b6170c5"
+
+[[files]]
+file = "config/fancymenu/assets/button_bg_hover.png"
+hash = "fb0c73b83d9e5c56df02ed511541c5b93ef8a85fe278ec4d4745aa12132d1979"
+
+[[files]]
+file = "config/fancymenu/assets/welcome.jpg"
+hash = "ac76e3edc3c210b5c4575281ef89061527fff24f166910a02b949d96f8f3e7db"
+
+[[files]]
+file = "config/fancymenu/assets/work.jpg"
+hash = "b8c18a82c95ef150a0c2a4b627020ad9c152415f0164a9a397e05b0cd74ca14d"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "892fbacba80e558054bea37594a58f150cfc30e0787afdf331e94fb9e4ae4ddc"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "cbd93e8f34f681b071aadadb0059b80be1e224b1d4bfd0ebe17ecf7ea22c6aed"
+
+[[files]]
+file = "config/fancymenu/customization/nxui.gui.preview_enabled_warning.txt"
+hash = "c18c21cf65129a7192651c7e1b0a3cc55f359ef1be6a5f0241dbc85411ffe15f"
+
+[[files]]
+file = "config/fancymenu/customization/nxui.main.txt"
+hash = "16d22876b1ed8f1f34af9ac62b26719eb933b074f1b3a79f5f84909dd61b0680"
+
+[[files]]
+file = "config/fancymenu/customization/nxui.options.txt"
+hash = "80bb412bb1efba0bcc319c7d73a052375722a9a4853b3fd291cc3da8e886a18f"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "be8928ed1fcabc1d477c712884e78fa0ef09f0d3a2eed3665a6c8db0aac85a65"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "493267c62a876dd073f9a0f088e984eb09bd781c0681858ab7b4c345e2066de6"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "b3ca1ad8210420088844306ad9002ca8d8b356e0eea3a08cfca2b42e3f418e19"
 
@@ -143,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6cd2d021b71d8172819a6a793ea7a6276822da398c3c74a63b022991414024e5"
+hash = "dfe5807e1bef326fea19cfbdadb712a6c19d6cb594698ac8c61b1439f9e2fa98"
 metafile = true
 
 [[files]]
@@ -153,7 +213,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "e4ad435d9280602f0bd17e860cacc1082e2851c9347d2572a828a630c72fb112"
+hash = "a6619aede80ea44ae5cc7fa36eeb0eeb08adbf9229e71a85f845921780d69153"
 metafile = true
 
 [[files]]
@@ -172,6 +232,16 @@ hash = "aa100d7bad29a0a2b76361b66fb42c1cf91cce76e1de37598e5a5b96c52b6b76"
 metafile = true
 
 [[files]]
+file = "mods/litematica.pw.toml"
+hash = "fa68a6845d756dad71cffe779a536de542d68c76915cfd86204855671048286b"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "702034dbed70640cc6a634dd2387264aa5beb77fceecc918a4ad68acbdd52cf1"
+metafile = true
+
+[[files]]
 file = "mods/melody.pw.toml"
 hash = "ab6af5e589ade8a9400eba7235ee509e66f640cd248bf3333b6001a084d63b3e"
 metafile = true
@@ -184,6 +254,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "79ec58c99084d5b02044e04b6860bc6339868e95e1a8c7a982f5400ee777b178"
+metafile = true
+
+[[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "dd2a2b41bbe6a4509efb7ddf1459205dfa5b0d0137c747b49294366c4dfe5e1f"
 metafile = true
 
 [[files]]
