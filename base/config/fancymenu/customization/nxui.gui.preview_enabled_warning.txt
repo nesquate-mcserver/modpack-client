@@ -1,0 +1,133 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = nxui.gui.enable_warning
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1723277472306
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:8e2816f8-d574-4146-a9f1-c9c0a3f3a7c2-1723277446570] = [groups:][instances:]
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+  show_screen_background_overlay_on_custom_background = false
+  apply_vanilla_background_blur = false
+}
+
+element {
+  interactable = true
+  source = 歡迎使用 NX UI 預覽版%n%%n%目前此 UI 仍然在測試調整中，可能會不符合平常使用習慣%n%且隨時會有大幅調整%n%%n%請問是否要繼續？
+  source_mode = direct
+  shadow = true
+  scale = 1.0
+  base_color = #FFFFFFFF
+  text_border = 2
+  line_spacing = 2
+  enable_scrolling = true
+  auto_line_wrapping = true
+  remove_html_breaks = true
+  code_block_single_color = #737373FF
+  code_block_multi_color = #565656FF
+  headline_line_color = #A9A9A9FF
+  separation_line_color = #A9A9A9FF
+  hyperlink_color = #0771FCFF
+  quote_color = #818181FF
+  quote_indent = 8.0
+  quote_italic = false
+  bullet_list_dot_color = #A9A9A9FF
+  bullet_list_indent = 8.0
+  bullet_list_spacing = 3.0
+  parse_markdown = true
+  element_type = text_v2
+  instance_identifier = 3b516256-d966-4757-a89a-ab589caad883-1723276957982
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = top-centered
+  x = -101
+  y = 47
+  width = 203
+  height = 83
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = e363e33f-3434-4762-a98f-aaf211874a0c-1723276957982
+  [loading_requirement_container_meta:e363e33f-3434-4762-a98f-aaf211874a0c-1723276957982] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = 878db60d-6386-4b84-b5d2-9c328891369a-1723277108904
+  [executable_action_instance:98bd114e-e780-4501-9f50-ac0b369cfafc-1723277170305][action_type:set_variable] = nxui.global.enabled:true
+  [executable_action_instance:7dec4437-a62d-433f-97cf-7b2f4a936bc9-1723277216013][action_type:closegui] = 
+  [executable_block:878db60d-6386-4b84-b5d2-9c328891369a-1723277108904][type:generic] = [executables:98bd114e-e780-4501-9f50-ac0b369cfafc-1723277170305;7dec4437-a62d-433f-97cf-7b2f4a936bc9-1723277216013;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = 繼續啟用
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = 8da0a88a-8fd5-444a-8529-01759f6c66b9-1723277108904
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = element
+  anchor_point_element = 3b516256-d966-4757-a89a-ab589caad883-1723276957982
+  x = -1
+  y = 99
+  width = 100
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 0a40f8ed-f863-49ad-b967-9bf66b2c7233-1723277108904
+  [loading_requirement_container_meta:0a40f8ed-f863-49ad-b967-9bf66b2c7233-1723277108904] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = a746d0fb-ee03-4544-b652-f1e8803ef251-1723277124478
+  [executable_action_instance:750bdb39-8ca0-47ba-8a91-2352ca00aed0-1723277150890][action_type:closegui] = 
+  [executable_block:a746d0fb-ee03-4544-b652-f1e8803ef251-1723277124478][type:generic] = [executables:750bdb39-8ca0-47ba-8a91-2352ca00aed0-1723277150890;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = 返回
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = e7af4a8f-798b-4a4d-901e-6e7bdc5e5cb9-1723277124478
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = element
+  anchor_point_element = 3b516256-d966-4757-a89a-ab589caad883-1723276957982
+  x = 103
+  y = 99
+  width = 100
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 816a2c2b-ef0b-46cd-b62b-741151645cf8-1723277124478
+  [loading_requirement_container_meta:816a2c2b-ef0b-46cd-b62b-741151645cf8-1723277124478] = [groups:][instances:]
+}
+

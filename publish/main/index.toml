@@ -236,6 +236,11 @@ hash = "c016b18cc29033ed2c7c6c5385bdabf50112a62e0a08a231df39bf9272367c38"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "e93c516f9469293e640ce54f0c2955014951b3aa0d0ef8110f94bc96fd4dd946"
+metafile = true
+
+[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "ad68291896e892edafe6d0ef625f0e909a01045bc1e25f5e34a0ceb072f42351"
 metafile = true
@@ -271,6 +276,11 @@ hash = "e4ad435d9280602f0bd17e860cacc1082e2851c9347d2572a828a630c72fb112"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "2c7ad26f8416aee6c43dbe20397a1bd52b333028a0c592c59ff5c4e1f1af63a2"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
 metafile = true
@@ -293,6 +303,11 @@ metafile = true
 [[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "0ccc4fed97855325f60ad11f87f29ba22f8b6f733d99ea97bf24c0a7af720b21"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "ab6af5e589ade8a9400eba7235ee509e66f640cd248bf3333b6001a084d63b3e"
 metafile = true
 
 [[files]]

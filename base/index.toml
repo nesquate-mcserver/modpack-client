@@ -147,8 +147,18 @@ hash = "6cd2d021b71d8172819a6a793ea7a6276822da398c3c74a63b022991414024e5"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "e93c516f9469293e640ce54f0c2955014951b3aa0d0ef8110f94bc96fd4dd946"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "e4ad435d9280602f0bd17e860cacc1082e2851c9347d2572a828a630c72fb112"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "2c7ad26f8416aee6c43dbe20397a1bd52b333028a0c592c59ff5c4e1f1af63a2"
 metafile = true
 
 [[files]]
@@ -159,6 +169,11 @@ metafile = true
 [[files]]
 file = "mods/letmeclickandsend.pw.toml"
 hash = "aa100d7bad29a0a2b76361b66fb42c1cf91cce76e1de37598e5a5b96c52b6b76"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "ab6af5e589ade8a9400eba7235ee509e66f640cd248bf3333b6001a084d63b3e"
 metafile = true
 
 [[files]]
