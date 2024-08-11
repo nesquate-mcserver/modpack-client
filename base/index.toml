@@ -13,6 +13,10 @@ file = "config/fancymenu/assets/button_bg_hover.png"
 hash = "fb0c73b83d9e5c56df02ed511541c5b93ef8a85fe278ec4d4745aa12132d1979"
 
 [[files]]
+file = "config/fancymenu/assets/logo.png"
+hash = "f7086a341ac0e46ee4ce894f681e88794961913daab6a1e142162532539e7230"
+
+[[files]]
 file = "config/fancymenu/assets/welcome.jpg"
 hash = "ac76e3edc3c210b5c4575281ef89061527fff24f166910a02b949d96f8f3e7db"
 
@@ -22,27 +26,63 @@ hash = "b8c18a82c95ef150a0c2a4b627020ad9c152415f0164a9a397e05b0cd74ca14d"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
-hash = "892fbacba80e558054bea37594a58f150cfc30e0787afdf331e94fb9e4ae4ddc"
+hash = "60e657d37192d99beeb5cffc8f1227c4436ccd998859176fd8c956852b73beb2"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "cbd93e8f34f681b071aadadb0059b80be1e224b1d4bfd0ebe17ecf7ea22c6aed"
+hash = "1142c559b589b85dab58294aa9456e0fc208fc33151828c5c4a28910bc10dc99"
+
+[[files]]
+file = "config/fancymenu/customization/nxui.gui.exit_welcome_warning_layout.txt"
+hash = "542155597a7bc743b240996bb189a0e35e7d509f12876b76d7737d1d69d0281e"
 
 [[files]]
 file = "config/fancymenu/customization/nxui.gui.preview_enabled_warning.txt"
 hash = "c18c21cf65129a7192651c7e1b0a3cc55f359ef1be6a5f0241dbc85411ffe15f"
 
 [[files]]
+file = "config/fancymenu/customization/nxui.gui.welcome_layout_1.txt"
+hash = "4bd73f248fdafdf43b5eb37dba0478255ddc0e5b791dc1f8103fdb3183cb310b"
+
+[[files]]
+file = "config/fancymenu/customization/nxui.gui.welcome_layout_2.txt"
+hash = "dd69ac7e189019c46f8e61edeb7a458b05fc7b59f1d0335c75c90b09798ee1c3"
+
+[[files]]
+file = "config/fancymenu/customization/nxui.gui.welcome_layout_3.txt"
+hash = "53ac43169dadcbe509adac0895e5f9b343ed93462bd31ddf011130db7faafcd4"
+
+[[files]]
+file = "config/fancymenu/customization/nxui.gui.welcome_layout_4.txt"
+hash = "35b58ed8d7e6bb0e0d08f96b8bcc08acb328ec01c6eb26f3b04c2e3d1bbf84fc"
+
+[[files]]
+file = "config/fancymenu/customization/nxui.gui.welcome_layout_5.txt"
+hash = "d9c0fa95d53496469b9a3198ee4df93ee3e3de2c22bd0a3e0e56547c77b0d863"
+
+[[files]]
+file = "config/fancymenu/customization/nxui.gui.welcome_layout_finish.txt"
+hash = "43dc75a6d63ab6c497ba173e4bd5806746686c79387eef16219490471e6ea970"
+
+[[files]]
 file = "config/fancymenu/customization/nxui.main.txt"
-hash = "16d22876b1ed8f1f34af9ac62b26719eb933b074f1b3a79f5f84909dd61b0680"
+hash = "90923658619614ca76e8f48adaf2968aaea8cf70779737eb05ab0008c67133fa"
 
 [[files]]
 file = "config/fancymenu/customization/nxui.options.txt"
 hash = "80bb412bb1efba0bcc319c7d73a052375722a9a4853b3fd291cc3da8e886a18f"
 
 [[files]]
+file = "config/fancymenu/customization/nxui.welcome.continue_layout.txt"
+hash = "3183e82e1084ac6a7ddf3dbc553945e200c5117f3c52cd71650d5a3876591cd8"
+
+[[files]]
+file = "config/fancymenu/customization/nxui.welcome.step.0.txt"
+hash = "e60db53a39615b6aca1f9703c5b45e9a2307c184563f148434c843b1472a176f"
+
+[[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+hash = "32cb3e960bf1d2ddaaea0bbfd5569d2007ec557bec9524e44e767d75a3603cd4"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -62,7 +102,7 @@ hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "493267c62a876dd073f9a0f088e984eb09bd781c0681858ab7b4c345e2066de6"
+hash = "4b18cea9b6857ae277dad37cf01a041a39b8bbb13207619d24dafcf240c1b4a6"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"

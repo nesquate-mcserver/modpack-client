@@ -4,8 +4,26 @@ overridden_screens {
 }
 
 custom_gui {
+  identifier = nxui.gui.exit_welcome_warning
+  title = 警告
+  allow_esc = true
+  transparent_world_background = false
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+
+custom_gui {
   identifier = nxui.gui.enable_warning
   title = 警告
+  allow_esc = false
+  transparent_world_background = false
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+
+custom_gui {
+  identifier = nxui.gui.welcome
+  title = 
   allow_esc = false
   transparent_world_background = true
   transparent_world_background_overlay = true

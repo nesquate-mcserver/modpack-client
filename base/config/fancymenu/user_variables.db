@@ -1,8 +1,20 @@
 type = user_variables
 
 variable {
-  name = nxui.global.enabled
+  name = nxui.welcome.step
+  value = 0
+  reset_on_launch = false
+}
+
+variable {
+  name = nxui.global.welcome
   value = true
+  reset_on_launch = false
+}
+
+variable {
+  name = nxui.global.enabled
+  value = false
   reset_on_launch = false
 }
 

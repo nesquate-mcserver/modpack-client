@@ -13,6 +13,10 @@ file = "config/fancymenu/assets/button_bg_hover.png"
 hash = "fb0c73b83d9e5c56df02ed511541c5b93ef8a85fe278ec4d4745aa12132d1979"
 
 [[files]]
+file = "config/fancymenu/assets/logo.png"
+hash = "f7086a341ac0e46ee4ce894f681e88794961913daab6a1e142162532539e7230"
+
+[[files]]
 file = "config/fancymenu/assets/welcome.jpg"
 hash = "ac76e3edc3c210b5c4575281ef89061527fff24f166910a02b949d96f8f3e7db"
 
@@ -22,27 +26,63 @@ hash = "b8c18a82c95ef150a0c2a4b627020ad9c152415f0164a9a397e05b0cd74ca14d"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
-hash = "892fbacba80e558054bea37594a58f150cfc30e0787afdf331e94fb9e4ae4ddc"
+hash = "60e657d37192d99beeb5cffc8f1227c4436ccd998859176fd8c956852b73beb2"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "cbd93e8f34f681b071aadadb0059b80be1e224b1d4bfd0ebe17ecf7ea22c6aed"
+hash = "1142c559b589b85dab58294aa9456e0fc208fc33151828c5c4a28910bc10dc99"
+
+[[files]]
+file = "config/fancymenu/customization/nxui.gui.exit_welcome_warning_layout.txt"
+hash = "542155597a7bc743b240996bb189a0e35e7d509f12876b76d7737d1d69d0281e"
 
 [[files]]
 file = "config/fancymenu/customization/nxui.gui.preview_enabled_warning.txt"
 hash = "c18c21cf65129a7192651c7e1b0a3cc55f359ef1be6a5f0241dbc85411ffe15f"
 
 [[files]]
+file = "config/fancymenu/customization/nxui.gui.welcome_layout_1.txt"
+hash = "4bd73f248fdafdf43b5eb37dba0478255ddc0e5b791dc1f8103fdb3183cb310b"
+
+[[files]]
+file = "config/fancymenu/customization/nxui.gui.welcome_layout_2.txt"
+hash = "dd69ac7e189019c46f8e61edeb7a458b05fc7b59f1d0335c75c90b09798ee1c3"
+
+[[files]]
+file = "config/fancymenu/customization/nxui.gui.welcome_layout_3.txt"
+hash = "53ac43169dadcbe509adac0895e5f9b343ed93462bd31ddf011130db7faafcd4"
+
+[[files]]
+file = "config/fancymenu/customization/nxui.gui.welcome_layout_4.txt"
+hash = "35b58ed8d7e6bb0e0d08f96b8bcc08acb328ec01c6eb26f3b04c2e3d1bbf84fc"
+
+[[files]]
+file = "config/fancymenu/customization/nxui.gui.welcome_layout_5.txt"
+hash = "d9c0fa95d53496469b9a3198ee4df93ee3e3de2c22bd0a3e0e56547c77b0d863"
+
+[[files]]
+file = "config/fancymenu/customization/nxui.gui.welcome_layout_finish.txt"
+hash = "43dc75a6d63ab6c497ba173e4bd5806746686c79387eef16219490471e6ea970"
+
+[[files]]
 file = "config/fancymenu/customization/nxui.main.txt"
-hash = "16d22876b1ed8f1f34af9ac62b26719eb933b074f1b3a79f5f84909dd61b0680"
+hash = "90923658619614ca76e8f48adaf2968aaea8cf70779737eb05ab0008c67133fa"
 
 [[files]]
 file = "config/fancymenu/customization/nxui.options.txt"
 hash = "80bb412bb1efba0bcc319c7d73a052375722a9a4853b3fd291cc3da8e886a18f"
 
 [[files]]
+file = "config/fancymenu/customization/nxui.welcome.continue_layout.txt"
+hash = "3183e82e1084ac6a7ddf3dbc553945e200c5117f3c52cd71650d5a3876591cd8"
+
+[[files]]
+file = "config/fancymenu/customization/nxui.welcome.step.0.txt"
+hash = "e60db53a39615b6aca1f9703c5b45e9a2307c184563f148434c843b1472a176f"
+
+[[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+hash = "32cb3e960bf1d2ddaaea0bbfd5569d2007ec557bec9524e44e767d75a3603cd4"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -62,7 +102,11 @@ hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "493267c62a876dd073f9a0f088e984eb09bd781c0681858ab7b4c345e2066de6"
+hash = "4b18cea9b6857ae277dad37cf01a041a39b8bbb13207619d24dafcf240c1b4a6"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "fe91b244220f7342db0552fd295a7ac6ed0abf830db06d63b1fd89bbedcf6742"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -222,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "b32b5cc978a0df2cf46401d3b194e436b3732025588ab92068cabbc7a1f5c056"
+hash = "46c81e885769d00c46294b3bda90df5eb7fb7dd443e982afe8acf7fd9f8192d6"
 metafile = true
 
 [[files]]
@@ -237,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "f978fb755114f41fe19262e0afab134c56cdfa14ac403acc642c69c6c62f9333"
+hash = "428eec696f3d3c6be80a562e14c9c125ea76052c5b2dd7023e8d1ceba504c3bb"
 metafile = true
 
 [[files]]
@@ -247,12 +291,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic_fps.pw.toml"
-hash = "319ce013768ea23b3944d7d384a2d4e9d43bb77128063050af6c4391b3dff703"
+hash = "dd1b611db4f1761dcc2cc380da6222950c9ce89e5fb1d0a04eff827f2e5ba7cf"
 metafile = true
 
 [[files]]
 file = "mods/e4mc_minecraft.pw.toml"
-hash = "f2942effcaac370a0f4390d423cfa51ad47cf98ceea84509f82c3dc56ec453cc"
+hash = "414767580618ef4e044153dbce5abc67673b1ffd9ecfc41c306855773f701eb3"
 metafile = true
 
 [[files]]
@@ -392,7 +436,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "ce517f98ae23ab7180c5bbbcfb7f7785364ee2e09d26033b89b9b242e9d0dee9"
+hash = "3a4333549a92c9d1aaaf971b1fde8729547b3a7c495e1ea6f7faebd39b9e938b"
 metafile = true
 
 [[files]]
@@ -427,7 +471,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "d8498fbc2dd1fbee37db597199ea10349bdd2b8ffcd52d4e7445fbccaef31555"
+hash = "ab61fa10605c95cf47eec17a9addad12fd818d5c5c24f3ffa403ffe586e6b7f6"
 metafile = true
 
 [[files]]
@@ -497,7 +541,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Chat_Reporting_Helper.pw.toml"
-hash = "e952110e87a6a07a1da63a5fa6483577332240da4d8d81f5b4560cc9dbe353dc"
+hash = "de3638002da8769311c320caefe3da2930d7ff5b1a384d3114649875c41d9004"
 metafile = true
 
 [[files]]
@@ -507,9 +551,9 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "1cc6ab981fe4510bdc16705c62ca301f31cdf9402e8b251263510725525423d9"
+hash = "9efd4535b68ed62a75ca4e3178b36dd07d4971740f35547141f775e89dca0fe0"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "d05165a989db3e35dffa5a04117b57c62d3fb9bcf16c376138ffe12189e6381d"
+hash = "82783a119fdd8e553b945be2ed2bd33c9eaa3c68a44b58c5925be85d1ea05a6c"
 metafile = true

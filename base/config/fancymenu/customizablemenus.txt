@@ -6,3 +6,6 @@ net.minecraft.class_429 {
 net.minecraft.class_442 {
 }
 
+de.maxhenkel.voicechat.gui.onboarding.FinalOnboardingScreen {
+}
+
