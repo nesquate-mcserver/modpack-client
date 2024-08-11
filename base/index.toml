@@ -106,7 +106,7 @@ hash = "4b18cea9b6857ae277dad37cf01a041a39b8bbb13207619d24dafcf240c1b4a6"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "b3ca1ad8210420088844306ad9002ca8d8b356e0eea3a08cfca2b42e3f418e19"
+hash = "81e36c4de506b1623257b7b2b6655c5a214d4fbf5470b3186e353b42a0f9a8b6"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
